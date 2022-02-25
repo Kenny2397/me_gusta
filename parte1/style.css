@@ -1,0 +1,26 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.card {
+    width: 500px;
+    margin: 30px auto;
+    background-color: rgb(255, 255, 255);
+    color: rgb(10, 10, 10);
+    padding: 20px;
+    margin-bottom: 30px;
+    border: 1px solid black;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.button{
+    padding:0px 10px;
+    background-color: rgb(253, 253, 174);
+    box-shadow: 2px 2px 2px;
+}
